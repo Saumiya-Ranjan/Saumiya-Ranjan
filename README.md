@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saumiya-Ranjan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Go Language
+- 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on knowledge sharing
-- 📫 How to reach me - www.twitter.com/saumiyaranjan
+- 📫 How to reach me - www.x.com/saumiyaranjan
 
 [![@saumiyaranjan's Holopin board](https://holopin.me/saumiyaranjan)](https://holopin.io/@saumiyaranjan)
 
